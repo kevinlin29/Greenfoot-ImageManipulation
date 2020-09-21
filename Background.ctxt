@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Background
+comment0.text=\n\ Starter\ code\ for\ Image\ Manipulation\ Array\ Assignment.\n\n\ The\ class\ Processor\ contains\ all\ of\ the\ code\ to\ actually\ perform\n\ transformation.\ The\ rest\ of\ the\ classes\ serve\ to\ support\ that\n\ capability.\ This\ World\ allows\ the\ user\ to\ choose\ transformations\n\ and\ open\ files.\n\ Kevin\ Lin\:\n\ Redesigned\ UI\ for\ simple\ use,\ the\ utilization\ of\ simple\ button\ reduces\ complexit\n\ Added\ rotation\ of\ images,\ flipping\ of\ images,\ as\ well\ as\ filters\ effects\n\ Added\ function\ to\ export\ as\ png\ and\ undo\n\ \n\ Used\ cases\ to\ reduce\ code\ massively\n\ \n\n\ @author\ Jordan\ Cohen,\ Kevin\ Lin\n\ @version\ November\ 2013,\ June\ 2020\n
+comment1.params=
+comment1.target=Background()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Background.\n\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act()\ method\ just\ checks\ for\ mouse\ input\n
+comment3.params=
+comment3.target=void\ checkMouse()
+comment3.text=\n\ Check\ for\ user\ clicking\ on\ a\ button\n
+comment4.params=
+comment4.target=void\ openFile()
+comment4.text=\n\ Allows\ the\ user\ to\ open\ a\ new\ image\ file.\n
+comment5.params=
+comment5.target=void\ prepare()
+comment5.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\n
+numComments=6
